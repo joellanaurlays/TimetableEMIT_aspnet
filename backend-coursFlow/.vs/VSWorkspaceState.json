@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\models"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\models\\utilisateurs",
   "PreviewInSolutionExplorer": false
 }
