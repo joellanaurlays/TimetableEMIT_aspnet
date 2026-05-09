@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/coursFlow/coursFlow.csproj": {}
+    "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/backend-coursFlow/coursFlow.csproj": {}
   },
   "projects": {
-    "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/coursFlow/coursFlow.csproj": {
+    "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/backend-coursFlow/coursFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/coursFlow/coursFlow.csproj",
+        "projectUniqueName": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/backend-coursFlow/coursFlow.csproj",
         "projectName": "coursFlow",
-        "projectPath": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/coursFlow/coursFlow.csproj",
+        "projectPath": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/backend-coursFlow/coursFlow.csproj",
         "packagesPath": "/home/joella/.nuget/packages/",
-        "outputPath": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/coursFlow/obj/",
+        "outputPath": "/run/media/joella/Disque D/LECONS/DA2I L3/ASPNET/Projet/backend-coursFlow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joella/.nuget/NuGet/NuGet.Config"
