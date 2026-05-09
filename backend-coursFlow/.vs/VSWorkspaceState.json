@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\models"
+    "\\models",
+    "\\models\\enums"
   ],
-  "SelectedNode": "\\models\\utilisateurs",
+  "SelectedNode": "\\models\\enums\\JourSemaine.cs",
   "PreviewInSolutionExplorer": false
 }

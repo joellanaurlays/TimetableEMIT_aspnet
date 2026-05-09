@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Disponibilite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploiDuTemps\\Disponibilite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\utilisateurs\\Etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\TypeDisponibilite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\enums\\TypeDisponibilite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\JourSemaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\enums\\JourSemaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Filiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploiDuTemps\\Filiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\enums\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploiDuTemps\\Classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\utilisateurs\\Professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\utilisateurs\\Utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeDisponibilite.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\TypeDisponibilite.cs",
+              "RelativeDocumentMoniker": "models\\enums\\TypeDisponibilite.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\TypeDisponibilite.cs",
+              "RelativeToolTip": "models\\enums\\TypeDisponibilite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:08:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disponibilite.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Disponibilite.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTemps\\Disponibilite.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Disponibilite.cs",
+              "RelativeToolTip": "models\\emploiDuTemps\\Disponibilite.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:28:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Etudiant.cs",
+              "RelativeDocumentMoniker": "models\\utilisateurs\\Etudiant.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Etudiant.cs",
+              "RelativeToolTip": "models\\utilisateurs\\Etudiant.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:01:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JourSemaine.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\JourSemaine.cs",
+              "RelativeDocumentMoniker": "models\\enums\\JourSemaine.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\JourSemaine.cs",
+              "RelativeToolTip": "models\\enums\\JourSemaine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:05:33.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filiere.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Filiere.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTemps\\Filiere.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Filiere.cs",
+              "RelativeToolTip": "models\\emploiDuTemps\\Filiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:01:25.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Professeur.cs",
+              "RelativeDocumentMoniker": "models\\utilisateurs\\Professeur.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Professeur.cs",
+              "RelativeToolTip": "models\\utilisateurs\\Professeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:59:33.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Classe.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTemps\\Classe.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\emploiDuTemps\\Classe.cs",
+              "RelativeToolTip": "models\\emploiDuTemps\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:27:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "models\\utilisateurs\\Utilisateur.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\utilisateurs\\Utilisateur.cs",
+              "RelativeToolTip": "models\\utilisateurs\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:55:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\Role.cs",
+              "RelativeDocumentMoniker": "models\\enums\\Role.cs",
+              "ToolTip": "D:\\L3\\C#\\coursFlowEMIT_aspnet\\backend-coursFlow\\models\\enums\\Role.cs",
+              "RelativeToolTip": "models\\enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:55:47.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

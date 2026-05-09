@@ -1,4 +1,4 @@
-namespace backendCoursFlow.utilisateurs.models;
+namespace BackendCoursFlow.Models.Enums;
 
 public enum Role
 {
