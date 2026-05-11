@@ -1,0 +1,21 @@
+## Fichiers de compilation
+[Bb]in/
+[Oo]bj/
+
+## Fichiers de configuration locale (Mots de passe DB)
+appsettings.Development.json
+appsettings.Local.json
+
+## Fichiers d'IDE (Visual Studio / VS Code)
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Fichiers OS
+.DS_Store
+thumbs.db
+
+## Entity Framework
+*.db

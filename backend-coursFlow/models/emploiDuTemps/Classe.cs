@@ -1,5 +1,10 @@
+namespace BackendCoursFlow.Models.EmploiDuTemps;
+
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+
+using BackendCoursFlow.Models.Pedagogies;
+using BackendCoursFlow.Models.Utilisateurs;
 
 public class Classe
 {
@@ -17,5 +22,5 @@ public class Classe
     // 1 Classe has * Cours
     public virtual ICollection<Cours> Cours { get; set; } = new List<Cours>();
 
-    protected void AjouterClasse() { }
+    public void AjouterClasse() { }
 }

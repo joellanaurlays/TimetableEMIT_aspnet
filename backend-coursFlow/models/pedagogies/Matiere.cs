@@ -1,7 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace BackendCoursFlow.Models.Pedagogies;
 
 public class Matiere
 {
+    [Key]
     public int IdMatiere { get; set; }
     public required string Code { get; set; }
     public required string Nom { get; set; }

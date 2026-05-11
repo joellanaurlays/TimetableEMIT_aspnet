@@ -1,4 +1,7 @@
 namespace BackendCoursFlow.Models.Utilisateurs;
+
+using BackendCoursFlow.Models.Enums;
+
 public class Utilisateur
 {
     public int Id { get; set; }

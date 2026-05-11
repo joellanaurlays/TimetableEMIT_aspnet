@@ -1,6 +1,10 @@
+namespace BackendCoursFlow.Models.EmploiDuTemps;
+
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+using BackendCoursFlow.Models.Enums;
+using BackendCoursFlow.Models.Utilisateurs;
 
 public class Disponibilite
 {
@@ -12,7 +16,7 @@ public class Disponibilite
     public TypeDisponibilite Type { get; set; }
 
     [ForeignKey("Professeur")]
-    public int ProfesseurId { get; set; }
+    public int IdProf { get; set; }
     public virtual Professeur Professeur { get; set; }
 
     public void AjouterDisponibilite() { }
