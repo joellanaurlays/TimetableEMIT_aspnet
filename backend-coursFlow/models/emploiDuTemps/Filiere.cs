@@ -3,6 +3,7 @@ namespace BackendCoursFlow.Models.EmploiDuTemps;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+using BackendCoursFlow.Models.EmploiDuTemps;
 using BackendCoursFlow.Models.Pedagogies;
 using BackendCoursFlow.Models.Utilisateurs;
 

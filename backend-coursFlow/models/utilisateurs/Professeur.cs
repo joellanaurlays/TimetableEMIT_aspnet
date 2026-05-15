@@ -16,7 +16,7 @@ public class Professeur : Utilisateur
     public required string Specialite { get; set; }
 
     public int UtilisateurId { get; set; }
-    public virtual Utilisateur Utilisateur { get; set; }
+    public virtual Utilisateur Utilisateur { get; set; } = default!;
 
     // Relations
     public virtual ICollection<Cours> Cours { get; set; } = new List<Cours>();

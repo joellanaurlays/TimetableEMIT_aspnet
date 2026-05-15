@@ -17,7 +17,7 @@ public class Disponibilite
 
     [ForeignKey("Professeur")]
     public int IdProf { get; set; }
-    public virtual Professeur Professeur { get; set; }
+    public virtual Professeur Professeur { get; set; } = default!;
 
     public void AjouterDisponibilite() { }
     public void ModifierDisponibilite() { }

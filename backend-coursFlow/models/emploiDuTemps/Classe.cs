@@ -17,7 +17,7 @@ public class Classe
 
     [ForeignKey("Filiere")]
     public int IdFiliere { get; set; }
-    public virtual Filiere Filiere { get; set; }
+    public virtual Filiere Filiere { get; set; } = default!;
 
     // 1 Classe has * Cours
     public virtual ICollection<Cours> Cours { get; set; } = new List<Cours>();
